@@ -1,3 +1,3 @@
 <div style="text-align: center;">
-  <img src="laby/1.png" alt="takiwyglad">
+  <img src="1.png" alt="takiwyglad">
 </div>
